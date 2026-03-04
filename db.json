@@ -61,7 +61,21 @@
       "content": "*hai*",
       "date": "2026-03-04T12:10:54.581Z",
       "likes": 0,
-      "comments": [],
+      "comments": [
+        {
+          "id": "1772626315722",
+          "author": {
+            "id": "1772626308871",
+            "username": "Ta",
+            "password": "012",
+            "name": "G",
+            "avatar": "https://nekos.best/api/v2/neko/a0e1bcde-743c-4b29-9ee7-09d749b22a94.png",
+            "bio": ""
+          },
+          "content": "Hi",
+          "date": "2026-03-04T12:11:55.722Z"
+        }
+      ],
       "media": []
     }
   ],
