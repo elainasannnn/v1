@@ -9,7 +9,24 @@
       "bio": ""
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "id": "1772626128533",
+      "author": {
+        "id": "1772626102930",
+        "username": "nefu",
+        "password": "123",
+        "name": "Lipp",
+        "avatar": "https://nekos.best/api/v2/neko/39b8de6f-3008-4abb-a3b9-2b6b4ba65c7e.png",
+        "bio": ""
+      },
+      "content": "Hai ",
+      "date": "2026-03-04T12:08:48.533Z",
+      "likes": 0,
+      "comments": [],
+      "media": []
+    }
+  ],
   "chats": [
     {
       "id": "1772626118694",
