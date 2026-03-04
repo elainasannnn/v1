@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "1772626102930",
+      "username": "nefu",
+      "password": "123",
+      "name": "Lipp",
+      "avatar": "https://nekos.best/api/v2/neko/39b8de6f-3008-4abb-a3b9-2b6b4ba65c7e.png",
+      "bio": ""
+    }
+  ],
+  "posts": [],
+  "chats": []
+}
